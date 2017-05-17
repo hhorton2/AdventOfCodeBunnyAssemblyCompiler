@@ -1,0 +1,11 @@
+C:\Users\hhorton\Documents\Visual Studio 2015\Projects\AdventOfCodeTDD\AdventOfCodeTDD\bin\Release\AdventOfCodeTDD.exe.config
+C:\Users\hhorton\Documents\Visual Studio 2015\Projects\AdventOfCodeTDD\AdventOfCodeTDD\bin\Release\AdventOfCodeTDD.exe
+C:\Users\hhorton\Documents\Visual Studio 2015\Projects\AdventOfCodeTDD\AdventOfCodeTDD\bin\Release\AdventOfCodeTDD.pdb
+C:\Users\hhorton\Documents\Visual Studio 2015\Projects\AdventOfCodeTDD\AdventOfCodeTDD\bin\Release\Castle.Core.dll
+C:\Users\hhorton\Documents\Visual Studio 2015\Projects\AdventOfCodeTDD\AdventOfCodeTDD\bin\Release\Moq.dll
+C:\Users\hhorton\Documents\Visual Studio 2015\Projects\AdventOfCodeTDD\AdventOfCodeTDD\bin\Release\nunit.framework.dll
+C:\Users\hhorton\Documents\Visual Studio 2015\Projects\AdventOfCodeTDD\AdventOfCodeTDD\bin\Release\Castle.Core.xml
+C:\Users\hhorton\Documents\Visual Studio 2015\Projects\AdventOfCodeTDD\AdventOfCodeTDD\bin\Release\Moq.xml
+C:\Users\hhorton\Documents\Visual Studio 2015\Projects\AdventOfCodeTDD\AdventOfCodeTDD\bin\Release\nunit.framework.xml
+C:\Users\hhorton\Documents\Visual Studio 2015\Projects\AdventOfCodeTDD\AdventOfCodeTDD\obj\Release\AdventOfCodeTDD.exe
+C:\Users\hhorton\Documents\Visual Studio 2015\Projects\AdventOfCodeTDD\AdventOfCodeTDD\obj\Release\AdventOfCodeTDD.pdb
